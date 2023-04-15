@@ -1,0 +1,2 @@
+# mindmaps
+Cheatsheet mindmaps
